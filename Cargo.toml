@@ -2,6 +2,8 @@
 name = "correy"
 version = "0.1.2"
 edition = "2021"
+description = "made by correy"
+license = "MIT"
 homepage = "https://github.com/kouzhudong/correy"
 repository = "https://github.com/kouzhudong/correy"
 
